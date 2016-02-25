@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <Button
+        android:text="Connexion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnCo"
+        android:background="#E74C3C"
+        android:padding="15dp"
+        android:layout_margin="10dp" />
+    <TextView
+        android:text="Etat de la connexion : "
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/etatCo"
+        android:layout_marginRight="0.0dp"
+        android:layout_marginTop="8dp"
+        android:padding="5dp"
+        android:textColor="#fff"
+        android:visibility="invisible" />
+    <Button
+        android:text="Check Connexion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/checkLed"
+        android:visibility="invisible"
+        android:background="#E74C3C"
+        android:layout_margin="10dp" />
+    <Button
+        android:text="Deconnexion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/deco"
+        android:visibility="invisible"
+        android:background="#E74C3C"
+        android:layout_margin="10dp" />
+    <Button
+        android:text="Obtenir les stats !"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/getStat"
+        android:visibility="invisible"
+        android:background="#34495E"
+        android:layout_margin="10dp" />
+    <TextView
+        android:text="Statistiques relevés :"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/title"
+        android:padding="5dp"
+        android:gravity="center"
+        android:visibility="invisible"
+        android:textColor="#FFF" />
+    <TextView
+        android:layout_width="384.0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/altitude"
+        android:padding="10dp"
+        android:text="Altitude : "
+        android:visibility="invisible" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/pression"
+        android:padding="10dp"
+        android:text="Pression : "
+        android:visibility="invisible"
+        android:textColor="#FFF" />
+    <TextView
+        android:text="Vitesse max : "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/VitMax"
+        android:padding="10dp"
+        android:visibility="invisible"
+        android:textColor="#FFF" />
+    <TextView
+        android:text="Vitesse moyenne : "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/VitMoy"
+        android:padding="10dp"
+        android:visibility="invisible"
+        android:textColor="#FFF" />
+    <TextView
+        android:text="Distance parcourue : "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/dist"
+        android:padding="10dp"
+        android:visibility="invisible"
+        android:textColor="#FFF" />
+    <TextView
+        android:text="Dénivelé max :"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/deniMax"
+        android:padding="10dp"
+        android:visibility="invisible"
+        android:textColor="#FFF" />
+</LinearLayout>

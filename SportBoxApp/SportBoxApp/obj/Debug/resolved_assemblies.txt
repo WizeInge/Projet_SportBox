@@ -1,0 +1,15 @@
+D:\Ingesup\E1\InternetDesObjets\Projet_SportBox\SportBoxApp\SportBoxApp\obj\Debug\assemblies\SportBoxApp.dll
+D:\Ingesup\E1\InternetDesObjets\Projet_SportBox\SportBoxApp\SportBoxApp\obj\Debug\assemblies\Mono.Android.dll
+D:\Ingesup\E1\InternetDesObjets\Projet_SportBox\SportBoxApp\SportBoxApp\obj\Debug\assemblies\mscorlib.dll
+D:\Ingesup\E1\InternetDesObjets\Projet_SportBox\SportBoxApp\SportBoxApp\obj\Debug\assemblies\Newtonsoft.Json.dll
+D:\Ingesup\E1\InternetDesObjets\Projet_SportBox\SportBoxApp\SportBoxApp\obj\Debug\assemblies\System.Core.dll
+D:\Ingesup\E1\InternetDesObjets\Projet_SportBox\SportBoxApp\SportBoxApp\obj\Debug\assemblies\System.dll
+D:\Ingesup\E1\InternetDesObjets\Projet_SportBox\SportBoxApp\SportBoxApp\obj\Debug\assemblies\System.Xml.dll
+D:\Ingesup\E1\InternetDesObjets\Projet_SportBox\SportBoxApp\SportBoxApp\obj\Debug\assemblies\System.Xml.Linq.dll
+D:\Ingesup\E1\InternetDesObjets\Projet_SportBox\SportBoxApp\SportBoxApp\obj\Debug\assemblies\Xamarin.Android.Support.Design.dll
+D:\Ingesup\E1\InternetDesObjets\Projet_SportBox\SportBoxApp\SportBoxApp\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+D:\Ingesup\E1\InternetDesObjets\Projet_SportBox\SportBoxApp\SportBoxApp\obj\Debug\assemblies\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Ingesup\E1\InternetDesObjets\Projet_SportBox\SportBoxApp\SportBoxApp\obj\Debug\assemblies\Xamarin.Android.Support.v7.CardView.dll
+D:\Ingesup\E1\InternetDesObjets\Projet_SportBox\SportBoxApp\SportBoxApp\obj\Debug\assemblies\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\Ingesup\E1\InternetDesObjets\Projet_SportBox\SportBoxApp\SportBoxApp\obj\Debug\assemblies\System.Runtime.Serialization.dll
+D:\Ingesup\E1\InternetDesObjets\Projet_SportBox\SportBoxApp\SportBoxApp\obj\Debug\assemblies\System.ServiceModel.Internals.dll
