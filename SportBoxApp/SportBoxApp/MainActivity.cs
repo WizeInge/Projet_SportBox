@@ -137,6 +137,10 @@ namespace SportBoxApp
                             Statistique stat = JsonConvert.DeserializeObject<Statistique>(content);
                             string altiStat = stat.altitude;
                             string pressionStat = stat.pression;
+                            /*string vitMaxStat = stat.vitesseMax;
+                            string vitMoyStat = stat.vitesseMoy;
+                            string distStat = stat.distance;*/
+
                             pression.Visibility = Android.Views.ViewStates.Visible;
                             VitMax.Visibility = Android.Views.ViewStates.Visible;
                             VitMoy.Visibility = Android.Views.ViewStates.Visible;
@@ -144,6 +148,11 @@ namespace SportBoxApp
                             deni.Visibility = Android.Views.ViewStates.Visible;
                             altitude.Text = "Altitude : " + altiStat + " mètres";
                             pression.Text = "Pression : " + pressionStat + " bar";
+                            /*
+                            VitMax.Text = "Vitesse max : " + vitMaxStat + " km/h";
+                            VitMoy.Text = "Vitesse moyenne : " + vitMoyStat + " km/h";
+                            dist.Text = "Distance parcourue : " + distStat + " métres";
+                            */
                         }
                     }
                 }
